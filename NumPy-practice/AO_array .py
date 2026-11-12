@@ -1,4 +1,7 @@
-# Arithmetic Operation in numpy arrays....
+# Numpy Arithmatic Operation.
+
+# what is numpy arithmatic Operation
+##..NumPy provides arithmetic operations to perform mathematical calculations on arrays easily.
 
 #Arithmatic Operation..
 

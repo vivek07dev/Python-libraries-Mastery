@@ -22,7 +22,7 @@ print(x)
 
 #2d arrat....
 
-var2 = np.array([1,2,3],[1,2,4])
+var2 = np.array([[1,2,3],[1,2,3]])
 print(var)
 v2 = np.append(var2,[[45,44,34]],axis=0)
 print(v2)
